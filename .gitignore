@@ -1,0 +1,8 @@
+runs
+Reacher_*
+unity-environment
+
+.ipynb_checkpoints
+__pycache__
+
+*.log
